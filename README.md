@@ -1,2 +1,2 @@
 # Graficación y Videojuegos
-## Ejercicio1
+Ejercicio 1
